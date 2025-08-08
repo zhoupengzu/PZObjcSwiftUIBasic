@@ -1,0 +1,22 @@
+{
+  "name": "PZObjcSwiftUIBasic",
+  "version": "0.1.0",
+  "summary": "A short description of PZObjcSwiftUIBasic.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhoupengzu@kanzhun.com/PZObjcSwiftUIBasic",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhoupengzu@kanzhun.com": "zhoupengzu@kanzhun.com"
+  },
+  "source": {
+    "git": "https://github.com/zhoupengzu@kanzhun.com/PZObjcSwiftUIBasic.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PZObjcSwiftUIBasic/Classes/**/*"
+}
